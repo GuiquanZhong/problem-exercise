@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pta.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="wd.cpp">
       <Filter>源文件</Filter>
     </ClCompile>

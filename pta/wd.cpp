@@ -16,7 +16,7 @@ int main()
 		{
 			cout << "Only 0" << m << a << n << ".  Too early to Dang." << endl;
 		}
-		else if (m < 10 && n < 10)
+		else if (m < 10 && n < 10)//nihao
 		{
 			cout << "Only 0" << m << a << "0" << n << ".  Too early to Dang." << endl;
 		}

@@ -1,0 +1,25 @@
+﻿“pta.exe”(Win32): 已加载“C:\Users\31241\source\repos\pta\x64\Debug\pta.exe”。已加载符号。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\msvcp140d.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\ole32.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\msvcp_win.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\ucrtbase.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\gdi32.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\win32u.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\gdi32full.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\user32.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\combase.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\rpcrt4.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140d.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140_1d.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\ucrtbased.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\imm32.dll”。
+线程 0x2b10 已退出，返回值为 0 (0x0)。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\sechost.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\kernel.appcore.dll”。
+“pta.exe”(Win32): 已加载“C:\Windows\System32\msvcrt.dll”。
+线程 0x40b4 已退出，返回值为 0 (0x0)。
+线程 0x6f9c 已退出，返回值为 0 (0x0)。
+程序“[5440] pta.exe”已退出，返回值为 0 (0x0)。

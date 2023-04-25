@@ -18,5 +18,8 @@
     <ClCompile Include="wd.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="pta L1-019.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
